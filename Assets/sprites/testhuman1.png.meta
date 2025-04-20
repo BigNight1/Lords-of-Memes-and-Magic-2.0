@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: 77595d264032da14180bf0cc5d356dd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3461447204698703414
+    second: testhuman1_0
+  - first:
+      213: -2243817597926728416
+    second: testhuman1_1
+  - first:
+      213: -5379474902322226458
+    second: testhuman1_2
+  - first:
+      213: -5327953887217789997
+    second: testhuman1_3
+  - first:
+      213: 6249973689176311166
+    second: testhuman1_4
+  - first:
+      213: 4799859303053890342
+    second: testhuman1_5
+  - first:
+      213: 8979507905878419699
+    second: testhuman1_6
+  - first:
+      213: 7059286022037416458
+    second: testhuman1_7
+  - first:
+      213: 2113884022089692434
+    second: testhuman1_8
+  - first:
+      213: 6223778012997184358
+    second: testhuman1_9
+  - first:
+      213: -3603660136913242343
+    second: testhuman1_10
+  - first:
+      213: -426351270310946844
+    second: testhuman1_11
+  - first:
+      213: -692982125805215987
+    second: testhuman1_12
+  - first:
+      213: -8628115808128224792
+    second: testhuman1_13
+  - first:
+      213: 4902829764090418738
+    second: testhuman1_14
+  - first:
+      213: -6050118794393719288
+    second: testhuman1_15
+  - first:
+      213: -4469853281250619036
+    second: testhuman1_16
+  - first:
+      213: 2997308836790925839
+    second: testhuman1_17
+  - first:
+      213: 150826032075060053
+    second: testhuman1_18
+  - first:
+      213: -5489122404779959488
+    second: testhuman1_19
+  - first:
+      213: -6607100640631391746
+    second: testhuman1_20
+  - first:
+      213: 8600379026943796198
+    second: testhuman1_21
+  - first:
+      213: 8825584870406250782
+    second: testhuman1_22
+  - first:
+      213: -2849366656583371414
+    second: testhuman1_23
+  - first:
+      213: -6690759114436231142
+    second: testhuman1_24
+  - first:
+      213: -7619408051816066278
+    second: testhuman1_25
+  - first:
+      213: 8231521273821359662
+    second: testhuman1_26
+  - first:
+      213: 7951975412092286321
+    second: testhuman1_27
+  - first:
+      213: -6079655253043284023
+    second: testhuman1_28
+  - first:
+      213: 1547846773685699269
+    second: testhuman1_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: testhuman1_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1296
+        width: 157
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac93a2b5b1876ffc0800000000000000
+      internalID: -3461447204698703414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1297
+        width: 168
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d9ece68cb5cd0e0800000000000000
+      internalID: -2243817597926728416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_2
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1296
+        width: 197
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea54f8f3144855b0800000000000000
+      internalID: -5379474902322226458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_3
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1297
+        width: 186
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3d8b41b2e4f06b0800000000000000
+      internalID: -5327953887217789997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_4
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1295
+        width: 116
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7544eed4fd5cb650800000000000000
+      internalID: 6249973689176311166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1051
+        width: 145
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623916afa968c9240800000000000000
+      internalID: 4799859303053890342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1051
+        width: 130
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8e1bb6dde9d9c70800000000000000
+      internalID: 8979507905878419699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_7
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1051
+        width: 139
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0aab6f3c3f97f160800000000000000
+      internalID: 7059286022037416458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_8
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1051
+        width: 124
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215b7097156065d10800000000000000
+      internalID: 2113884022089692434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_9
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1051
+        width: 104
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b6599b02d4f5650800000000000000
+      internalID: 6223778012997184358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 805
+        width: 120
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917fc00d23a3dfdc0800000000000000
+      internalID: -3603660136913242343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 804
+        width: 111
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7549f47cb451af0800000000000000
+      internalID: -426351270310946844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_12
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 806
+        width: 110
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f5fab9d680266f0800000000000000
+      internalID: -692982125805215987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_13
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 804
+        width: 107
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1b59fd266c24880800000000000000
+      internalID: -8628115808128224792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_14
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 805
+        width: 106
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23652d2b1b95a0440800000000000000
+      internalID: 4902829764090418738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 563
+        width: 112
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e6f3be209a90ca0800000000000000
+      internalID: -6050118794393719288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 562
+        width: 113
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46151fc7f14e7f1c0800000000000000
+      internalID: -4469853281250619036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_17
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 562
+        width: 107
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0aff03b184989920800000000000000
+      internalID: 2997308836790925839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 562
+        width: 121
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55337b02a77d71200800000000000000
+      internalID: 150826032075060053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_19
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 562
+        width: 104
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bd3766148b2d3b0800000000000000
+      internalID: -5489122404779959488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 322
+        width: 107
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9f8e729fcde44a0800000000000000
+      internalID: -6607100640631391746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_21
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 323
+        width: 110
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e364b2882faa5770800000000000000
+      internalID: 8600379026943796198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_22
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 323
+        width: 120
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1160affda6ca7a70800000000000000
+      internalID: 8825584870406250782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_23
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 323
+        width: 108
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6571875f140578d0800000000000000
+      internalID: -2849366656583371414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_24
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 323
+        width: 103
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10425ad806a523a0800000000000000
+      internalID: -6690759114436231142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 76
+        width: 107
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1390c80fbc624690800000000000000
+      internalID: -7619408051816066278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 76
+        width: 101
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e613f6cfc3c3270800000000000000
+      internalID: 8231521273821359662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 76
+        width: 159
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175b66481871b5e60800000000000000
+      internalID: 7951975412092286321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_28
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 75
+        width: 100
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7748d32c9b0aba0800000000000000
+      internalID: -6079655253043284023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testhuman1_29
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 76
+        width: 104
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c24548907e0b7510800000000000000
+      internalID: 1547846773685699269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
